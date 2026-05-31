@@ -1,0 +1,3 @@
+este es el proyecto donde trabajare con fast api 
+exitira un archivo de tutorial que el cual es un tutoria que use para 
+practicar y aprender fastApi y en un futuro otro que sera un mini proyecto para poder emplearlo
